@@ -1,0 +1,8 @@
+# Colab dependencies for model training
+# Install in Google Colab with: pip install -r requirements.txt
+
+torch
+torchvision
+pillow
+numpy
+matplotlib

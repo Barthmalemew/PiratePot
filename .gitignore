@@ -1,0 +1,25 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+secrets/
+
+# Nix
+.direnv/
+result
+
+# OS
+.DS_Store
+Thumbs.db
